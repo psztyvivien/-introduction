@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @psztyvivien
 - 👩🏽‍💻 student @ Óbuda University John von Neumann Faculty of Informatics
-- 👀 I’m interested in frontend, IT networks, etc.
+- 👀 I’m interested in frontend, cyber security, etc.
 - 🌱 I’m currently learning fullstack software development
 - 📫 How to reach me psztyvvn@gmail.com
 - ⚡ Fun fact: I'm a pug owner 🐾
